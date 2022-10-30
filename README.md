@@ -1,2 +1,1 @@
-# face-recognition
-tells name if present in data base by looking at the face
+A GIT repository allows performing various operations on it to create different versions of a project. These operations include the addition of files, creating new repositories, committing an action, deleting a repository, etc. These modifications will result in the creation of different versions of a project.
