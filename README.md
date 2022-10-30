@@ -1,2 +1,3 @@
-# face-recognition
-tells name if present in data base by looking at the face
+A GIT repository allows performing various operations on it to create different versions of a project. These operations include the addition of files, creating new repositories, committing an action, deleting a repository, etc. These modifications will result in the creation of different versions of a project.
+A repository contains all of your project's files and each file's revision history
+A code repository is an archive of the code that is being worked on. Beyond the code itself, you can keep things such as documentation, notes, web pages, and other items in your repository. A code repository is required for any successful software development project.
